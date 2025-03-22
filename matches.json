@@ -1,0 +1,83 @@
+{
+    "date": "2025-01-26",
+    "event": "Major 1 Qualifiers",
+    "team1": "Toronto Ultra",
+    "team2": "OpTic Texas",
+    "totalMapsPlayed": 4,
+    "team1OverallScore": 1,
+    "team2OverallScore": 3,
+    "maps": [
+      {
+        "mapName": "Vault",
+        "gameMode": 0,
+        "team1Score": 184,
+        "team2Score": 250,
+        "team1Players": [
+          {"name": "Beans", "kills": 19, "deaths": 29, "damage": 2923},
+          {"name": "CleanX", "kills": 28, "deaths": 29, "damage": 3119},
+          {"name": "Insight", "kills": 20, "deaths": 30, "damage": 3325},
+          {"name": "JoeDeceives", "kills": 28, "deaths": 31, "damage": 3694}
+        ],
+        "team2Players": [
+          {"name": "Dashy", "kills": 31, "deaths": 27, "damage": 4149},
+          {"name": "Huke", "kills": 23, "deaths": 24, "damage": 3305},
+          {"name": "Kenny", "kills": 30, "deaths": 24, "damage": 3936},
+          {"name": "Shotzzy", "kills": 35, "deaths": 20, "damage": 3335}
+        ]
+      },
+      {
+        "mapName": "RedCard",
+        "gameMode": 1,
+        "team1Score": 4,
+        "team2Score": 6,
+        "team1Players": [
+          {"name": "Beans", "kills": 8, "deaths": 6, "damage": 1051},
+          {"name": "CleanX", "kills": 9, "deaths": 9, "damage": 1240},
+          {"name": "Insight", "kills": 4, "deaths": 7, "damage": 517},
+          {"name": "JoeDeceives", "kills": 5, "deaths": 7, "damage": 664}
+        ],
+        "team2Players": [
+          {"name": "Dashy", "kills": 3, "deaths": 8, "damage": 884},
+          {"name": "Huke", "kills": 11, "deaths": 4, "damage": 1265},
+          {"name": "Kenny", "kills": 6, "deaths": 9, "damage": 1163},
+          {"name": "Shotzzy", "kills": 9, "deaths": 5, "damage": 761}
+        ]
+      },
+      {
+        "mapName": "Vault",
+        "gameMode": 2,
+        "team1Score": 3,
+        "team2Score": 1,
+        "team1Players": [
+          {"name": "Beans", "kills": 22, "deaths": 22, "damage": 2768},
+          {"name": "CleanX", "kills": 28, "deaths": 21, "damage": 2978},
+          {"name": "Insight", "kills": 21, "deaths": 24, "damage": 2845},
+          {"name": "JoeDeceives", "kills": 25, "deaths": 23, "damage": 2931}
+        ],
+        "team2Players": [
+          {"name": "Dashy", "kills": 23, "deaths": 23, "damage": 2994},
+          {"name": "Huke", "kills": 29, "deaths": 22, "damage": 2960},
+          {"name": "Kenny", "kills": 22, "deaths": 27, "damage": 2804},
+          {"name": "Shotzzy", "kills": 16, "deaths": 24, "damage": 2108}
+        ]
+      },
+      {
+        "mapName": "Protocol",
+        "gameMode": 0,
+        "team1Score": 156,
+        "team2Score": 250,
+        "team1Players": [
+          {"name": "Beans", "kills": 29, "deaths": 35, "damage": 3943},
+          {"name": "CleanX", "kills": 31, "deaths": 35, "damage": 4239},
+          {"name": "Insight", "kills": 31, "deaths": 34, "damage": 3919},
+          {"name": "JoeDeceives", "kills": 24, "deaths": 36, "damage": 2667}
+        ],
+        "team2Players": [
+          {"name": "Dashy", "kills": 39, "deaths": 30, "damage": 4500},
+          {"name": "Huke", "kills": 37, "deaths": 23, "damage": 4091},
+          {"name": "Kenny", "kills": 34, "deaths": 31, "damage": 3816},
+          {"name": "Shotzzy", "kills": 30, "deaths": 31, "damage": 3639}
+        ]
+      }
+    ]
+  }
